@@ -36,6 +36,7 @@ html,body{
     color: #FFF;
     text-decoration: none;
     border: 2px #fff solid;
+    text-shadow:0px 0px 20px #524556;
     padding: 8px 50px;
     border-radius: 30px;
     transition: 0.3s;
@@ -197,6 +198,11 @@ html,body{
         font-size: 18px;
     }
     
+}
+
+#entry{
+    display: block; 
+    margin-top: 400px;
 }
 
 @media screen and (max-width: 320px)
